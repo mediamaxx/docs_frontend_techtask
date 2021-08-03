@@ -75,11 +75,9 @@
     3.	Устранение засоров (Исп. дизайн-макет Услуга)
 3. Контакты
 
-``
-<html>
+`<html>
 Демонстрация кода
-</html>
-``
+</html>`
 
 ![Tux, the Linux mascot](/assets/images/tux.png)
 
