@@ -75,5 +75,11 @@
     3.	Устранение засоров (Исп. дизайн-макет Услуга)
 3. Контакты
 
-``Use `code` in your Markdown file.``
+``
+<html>
+Демонстрация кода
+</html>
+``
+
+![Tux, the Linux mascot](/assets/images/tux.png)
 
